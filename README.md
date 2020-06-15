@@ -1,4 +1,5 @@
 # Gilded Rose Refactoring Kata
+I cloned this from https://github.com/emilybache/GildedRose-Refactoring-Kata and all references below to "I" are from the original readme from where this was ported over! Thank you Emily and everyone who worked on this so I could practice
 
 This Kata was originally created by Terry Hughes (http://twitter.com/TerryHughes). It is already on GitHub [here](https://github.com/NotMyself/GildedRose). See also [Bobby Johnson's description of the kata](http://iamnotmyself.com/2011/02/13/refactor-this-the-gilded-rose-kata/).
 
